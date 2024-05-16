@@ -1,0 +1,20 @@
+# Verifica o status atual do git, se existe um repositório e tal
+1º : git status
+
+# Inicializa o git no projeto
+2º : git init
+
+# Adiciona no commit atual os arquivos novos. (vem antes do git commit)
+3º : git add "nome do arquivo" | git add . 
+
+# Comita os arquivos novos
+4º : git commit
+
+# Verifica as origens
+5º : git remote -v 
+
+# Remove a origem
+6º : git remote rm origin
+
+# Envia as mudanças para o GitHub por exemplo
+7º : git push -u
