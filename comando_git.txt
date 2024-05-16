@@ -18,3 +18,9 @@
 
 # Envia as mudanças para o GitHub por exemplo
 7º : git push -u
+
+# Recebe as mudanças do repositório remoto para a nossa máquina
+8º : git pull
+
+# Pega e clona o projeto de um repositório remoto
+9º : git clone {link do projeto}
