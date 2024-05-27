@@ -24,3 +24,10 @@
 
 # Pega e clona o projeto de um repositório remoto
 9º : git clone {link do projeto}
+
+# Renomeando ou movendo arquivos no Git
+Movendo arquivo
+10º : git mv 'nome arquivo' 'pasta para onde ele vai'
+
+Renomeando arquivo
+11º : git mv <nome_antigo> <nome_novo>
